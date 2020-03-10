@@ -4,7 +4,7 @@
 
 # Projekta Ideja
 
-Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara. Kā arī ja šis cilvēks ir pieņēmies svarā par noteiktu skaitu uz displeja uzrāda, ko cilvēks šjā dienā nedrīkst ēst/dzert. Bet ja otrādāk cilvēks ir svarā nometies, displejā uzrādīsies patīkams vai motivējošs teksts. Svari sūtīs saņemtos datus uz viadtālruni vai arī datoru. Veicot grafiskus pētījumus par cilvēka svara daudzumu. 
+Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara. Kā arī ja šis cilvēks ir pieņēmies svarā par noteiktu skaitu uz displeja uzrāda, ko cilvēks šajā dienā nedrīkst ēst/dzert. Bet ja otrādāk, cilvēks ir svarā nometies, displejā uzrādīsies patīkams vai motivējošs teksts. Svari sūtīs saņemtos datus uz viadtālruni vai arī datoru, veicot grafiskus pētījumus par cilvēka svara daudzumu. 
 
 
 ## Nepieciešamās lietas
