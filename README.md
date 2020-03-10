@@ -1,6 +1,9 @@
-# Gala_Projekts_2020
+<p align="center">
+  <b># Gala_Projekts_2020</b><br>
+<p align="center">
+  <b># Wi-fi Svari</b><br>
 
-  # Wi-fi Svari
+ 
 
 # Projekta Ideja
 
