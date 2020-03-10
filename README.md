@@ -2,6 +2,11 @@
 
   # Wi-fi Svari
 
+# Projekta Ideja
+
+Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara. Kā arī ja šis cilvēks ir pieņēmies svarā par noteiktu skaitu uz displeja uzrāda, ko cilvēks šjā dienā nedrīkst ēst/dzert. Bet ja otrādāk cilvēks ir svarā nometies, displejā uzrādīsies patīkams vai motivējošs teksts. Svari sūtīs saņemtos datus uz viadtālruni vai arī datoru. Veicot grafiskus pētījumus par cilvēka svara daudzumu. 
+
+
 ## Nepieciešamās lietas
 * Huzzah Esp8266 [Šeit būs links kur to var nopirkt](https://www.amazon.de/dp/B071P98VTG/ref=pd_sbs_147_t_0/262-2875871-3310643?_encoding=UTF8&pd_rd_i=B071P98VTG&pd_rd_r=62b3f020-dce4-423f-89eb-27791b0470e2&pd_rd_w=korrP&pd_rd_wg=V7VGU&pf_rd_p=a2f6bca6-dcb1-4822-8e28-66b64b37970e&pf_rd_r=HCPMSDFRYA9T5WFTJP0T&psc=1&refRID=HCPMSDFRYA9T5WFTJP0T)
 
@@ -11,7 +16,4 @@
 
 * FireBeetle Covers-24×8 LED Matrix  [Šeit būs links kur to var nopirkt](https://www.dfrobot.com/product-1595.html?tracking=59c41226a118c)
 
-# Projekta Ideja
-
-Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara. Kā arī ja šis cilvēks ir pieņēmies svarā par noteiktu skaitu uz displeja uzrāda, ko cilvēks šjā dienā nedrīkst ēst/dzert. Bet ja otrādāk cilvēks ir svarā nometies, displejā uzrādīsies patīkams vai motivējošs teksts. Svari sūtīs saņemtos datus uz viadtālruni vai arī datoru. Veicot grafiskus pētījumus par cilvēka svara daudzumu. 
 
