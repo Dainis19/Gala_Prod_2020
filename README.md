@@ -11,7 +11,7 @@
 
 * FireBeetle Covers-24×8 LED Matrix  [Šeit būs links kur to var nopirkt](https://www.dfrobot.com/product-1595.html?tracking=59c41226a118c)
 
-#Projekta Ideja
+# Projekta Ideja
 
 Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara. Kā arī ja šis cilvēks ir pieņēmies svarā par noteiktu skaitu uz displeja uzrāda, ko cilvēks šjā dienā nedrīkst ēst/dzert. Bet ja otrādāk cilvēks ir svarā nometies, displejā uzrādīsies patīkams vai motivējošs teksts. Svari sūtīs saņemtos datus uz viadtālruni vai arī datoru. Veicot grafiskus pētījumus par cilvēka svara daudzumu. 
 
