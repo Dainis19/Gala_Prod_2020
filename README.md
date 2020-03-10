@@ -12,7 +12,9 @@
 Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara. Kā arī ja šis cilvēks ir pieņēmies svarā par noteiktu skaitu uz displeja uzrāda, ko cilvēks šajā dienā nedrīkst ēst/dzert. Bet ja otrādāk, cilvēks ir svarā nometies, displejā uzrādīsies patīkams vai motivējošs teksts. Svari sūtīs saņemtos datus uz viadtālruni vai arī datoru, veicot grafiskus pētījumus par cilvēka svara daudzumu. 
 
 
-## Nepieciešamās lietas
+<h2 align="center">
+  <b>Projekta Shēma</b><b>
+
 * Huzzah Esp8266 [Šeit būs links kur to var nopirkt](https://www.amazon.de/dp/B071P98VTG/ref=pd_sbs_147_t_0/262-2875871-3310643?_encoding=UTF8&pd_rd_i=B071P98VTG&pd_rd_r=62b3f020-dce4-423f-89eb-27791b0470e2&pd_rd_w=korrP&pd_rd_wg=V7VGU&pf_rd_p=a2f6bca6-dcb1-4822-8e28-66b64b37970e&pf_rd_r=HCPMSDFRYA9T5WFTJP0T&psc=1&refRID=HCPMSDFRYA9T5WFTJP0T)
 
 * 4X 50 kg cilvēka slodzes elementi un HX711 [Šeit būs links kur to var nopirkt](https://www.ebay.co.uk/itm/4X-50kg-Human-Load-Cells-HX711-AD-Module-Kit-Resistance-Strain-Weight-Sensor/283456950768?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D1%26asc%3D20131003132420%26meid%3Ddfca2d67acff485e92e340f2c3cb35ac%26pid%3D100005%26rk%3D3%26rkt%3D12%26mehot%3Dpf%26sd%3D123151514110%26itm%3D283456950768%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DSimplAMLv5PairwiseWeb&_trksid=p2047675.c100005.m1851)
