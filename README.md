@@ -10,5 +10,8 @@
 * Vadi [Šeit būs links kur to var nopirkt](https://www.ebay.co.uk/itm/40pcs-Dupont-Jump-Wire-M-F-M-M-F-F-Jumper-Breadboard-Cable-Lead-For-Arduino-UK/113798126900?_trkparms=ispr%3D1&hash=item1a7ee59d34:m:mVonVpMq_9-RRmE6R2KKnFQ&enc=AQAEAAACUBPxNw%2BVj6nta7CKEs3N0qVtklKtWD3yTMywY2%2B6p53O7isGdZhJrrdWpFzg7K453ocliW8JufYQsQSO1yGmeWHM1ly50SdOZtK4gEVxF8iwlSi7B81Ed7%2B%2BxG99DaGy8DAa8yFvTWpPSs07P6gzfXpI9qo9uKLXUlHOgFqXDE%2B80w%2BWBUXQNWd%2ByQQ6mDH91Uxmh2pkZAYyp32fbI3JjT1ps2mKxtVli9m%2Fupy8jIbQaAntQcxWey0rce6KZcW3ae4JME4rBIj%2FNCPvPEgy2DWJe549DxfV9hW1UpDiDldQ8frVJwvZwYRkAfkE%2FJk8unHb3qzjNA%2FRRMRfs9BeeivdvZT8HZjenmt%2BBPXZlFVI%2BnYGjSgWGtKa01KkPto%2BgCjflC11CLHUnMJaLFigQFes9i0Hd%2FYFVK9sP0QJAU82ANwmg844jBSLbiClqbk0bUrwcv86lka1uxSdPJGR4Or3I3cCko7%2BCJjHvuFr6c5mCSt4d%2FnzHIqWr%2FtTRA2DKQlMkvC6SLyHsOgKUdqzM4to4kmrgNm0e8rZ%2BPDC2oe3KdojL7L%2Fl38%2BJNT1WlvFqnzpLwKqF2U6I3alcEHIRVyWyOce%2BhUrdB1PkiyYzpPafMoRSfoGz4ddUuNw6zevlig7ufL%2Fo1eMBr8qAf2OhC7WcaT517THvRvm%2BoSI0WFFwGia44ssqNC9grKR%2BJ2zSgYI1wAyigvm%2BWHwvTlMGbn3cpHazH%2F1R0SBfNPx5m3eu92DWhO9vaphMKmOGJbAEsm8mCy9GSaN3XIOf9234Bw%3D&checksum=113798126900ef7a2df9bdf84e23b918839fd1855072)
 
 * FireBeetle Covers-24×8 LED Matrix  [Šeit būs links kur to var nopirkt](https://www.dfrobot.com/product-1595.html?tracking=59c41226a118c)
-* 
+
+#Projekta Ideja
+
+Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara. Kā arī ja šis cilvēks ir pieņēmies svarā par noteiktu skaitu uz displeja uzrāda, ko cilvēks šjā dienā nedrīkst ēst/dzert. Bet ja otrādāk cilvēks ir svarā nometies, displejā uzrādīsies patīkams vai motivējošs teksts. Svari sūtīs saņemtos datus uz viadtālruni vai arī datoru. Veicot grafiskus pētījumus par cilvēka svara daudzumu. 
 
