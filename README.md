@@ -23,4 +23,4 @@ Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara.
 
 
 <p align="center">
-  <b>Projekta Shēma</b><br>
+  <h2>Projekta Shēma</h2><h2>
