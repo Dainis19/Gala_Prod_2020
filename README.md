@@ -22,3 +22,5 @@ Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara.
 * FireBeetle Covers-24×8 LED Matrix  [Šeit būs links kur to var nopirkt](https://www.dfrobot.com/product-1595.html?tracking=59c41226a118c)
 
 
+<p align="center">
+  <b>Projekta Shēma</b><br>
