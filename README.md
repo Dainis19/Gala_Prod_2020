@@ -2,7 +2,7 @@
   <h1>Gala_Projekts_2020</h1><h1>
 
 
-<p align="center">
+<## align="center">
   <b>Wi-fi Svari</br><b>
 
  
