@@ -1,7 +1,7 @@
 <p align="center">
-  <b># Gala_Projekts_2020</b><br>
+  <title>Gala_Projekts_2020</b><br>
 <p align="center">
-  <b># Wi-fi Svari</b><br>
+  <h1>Wi-fi Svari</b><br>
 
  
 
