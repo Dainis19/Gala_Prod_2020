@@ -25,4 +25,4 @@ Plāns ir uztaisīt svarus kuri nosverot cilvēku var atpazīt viņu pēc svara.
 <h2 align="center">
   <b>Projekta Shēma</b><b>
   
-  ![alt text]()
+  ![alt text](https://github.com/Dainis19/Gala_Prod_2020/blob/master/Att%C4%93li/Redzama%20sh%C4%93ma.jpg)
